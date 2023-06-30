@@ -1,0 +1,13 @@
+AMPAL==1.4.0
+Bio==1.4.0
+blosum==1.2.0
+matplotlib==3.5.2
+numpy==1.23.1
+onnxruntime==1.12.1
+pandas==1.4.4
+ray==2.0.1
+scikit_learn==1.1.2
+scipy==1.9.1
+seaborn==0.11.2
+torch==1.12.1
+tqdm==4.64.1
